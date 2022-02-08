@@ -10,6 +10,6 @@ The working group is open to anyone who wishes to join, all meetings will be rec
 
 ## Meeting details
 
-Zoom link: https://thefoundry.zoom.us/j/97582912679 <br>
-Frequency: Every 4 weeks on Thursday <br>
-Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBwZXJpLmZyaWVuZEBmb3VuZHJ5LmNvbQ&tmsrc=peri.friend%40foundry.com&scp=ALL)
+- Frequency: Every 4 weeks on Thursday
+- Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBwZXJpLmZyaWVuZEBmb3VuZHJ5LmNvbQ&tmsrc=peri.friend%40foundry.com&scp=ALL)
+- Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
