@@ -2,6 +2,8 @@
 
 Date/Time: 10th February 2022 @ 17:00 GMT
 
+Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
+
 This meeting will start with a quick recap of work since the last
 meeting. We would then love to get atendees input on the topic of the
 plugin test harness and how best to expose our extendable type system to
