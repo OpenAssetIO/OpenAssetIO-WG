@@ -2,7 +2,8 @@
 
 Date/Time: 10th February 2022 @ 17:00 GMT
 
-Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
+- Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBwZXJpLmZyaWVuZEBmb3VuZHJ5LmNvbQ&tmsrc=peri.friend%40foundry.com&scp=ALL)
+- Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
 
 This meeting will start with a quick recap of work since the last
 meeting. We would then love to get atendees input on the topic of the
