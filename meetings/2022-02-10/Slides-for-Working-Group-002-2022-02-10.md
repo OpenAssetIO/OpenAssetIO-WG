@@ -81,7 +81,7 @@ Current core library specifications, used to type-check API methods:
 
 - `EntitySpecification` e.g file, image, shot, etc...
 - `RelationshipSpecification`  e.g. parent grouping, pipeline step
-- `LocaleSpeciciation` e.g. node in graph, timeline, file menu
+- `LocaleSpecification` e.g. node in graph, timeline, file menu
 
 ### Discussion
 
