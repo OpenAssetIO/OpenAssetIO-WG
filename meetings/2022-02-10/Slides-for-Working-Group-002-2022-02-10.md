@@ -118,7 +118,7 @@ Looks familiar? USD Prims, OTIO Metadata, Katana Locations, others???
 
 ### Discussion
 - What similar mechanisms do people know about?
-- What is people's experience with the `usdSchemaGen` mechanism or similar mechanisms?
+- What is people's experience with the `usdSchemaGen` or similar?
 
 ---
 ---
