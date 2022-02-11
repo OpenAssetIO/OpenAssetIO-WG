@@ -10,8 +10,8 @@ The working group is open to anyone who wishes to join, all meetings will be rec
 
 ## Meeting details
 
-**Next meeting: Feb 10th 2022 - [Agenda](meetings/2022-02-10/README.md)**
+**Next meeting: March 10th 2022**
 
 - Frequency: Every 4 weeks on Thursday
-- Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBwZXJpLmZyaWVuZEBmb3VuZHJ5LmNvbQ&tmsrc=peri.friend%40foundry.com&scp=ALL)
+- Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBjX28wMG9ka3FlbzJnY3Zua2dmMGg3bjUzdjBvQGc&tmsrc=c_o00odkqeo2gcvnkgf0h7n53v0o%40group.calendar.google.com&scp=ALL)
 - Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
