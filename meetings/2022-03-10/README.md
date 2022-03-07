@@ -7,7 +7,7 @@ Date/Time: 16th or 17th March 2022 @ 17:00 GMT TBC
 
 The main focus of this meeting is to understand the performance characteristics of real world asset management systems that are in use in production.
 
-We are proposing significant structural improvements to the API (see Background Reading). We believe these changes create significant improvements to the API surface area but preclude certain specific optimisations afforded by the current split of "resolving the path" and everything else. We want to ratify this decision, backed by a better understanding based on empirical data. 
+We are proposing significant structural improvements to the API (see Background Reading). We believe these changes create significant improvements to the API surface area but preclude certain specific optimisations afforded by the current split of "resolving the path" and "everything else". We want to ratify this decision, backed by a better understanding based on empirical data. 
 
 To help inform this, we are looking for:
 1. Typical ranges encountered in production:
