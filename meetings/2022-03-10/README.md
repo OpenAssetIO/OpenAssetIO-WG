@@ -2,10 +2,12 @@
 
 Date/Time: 16th or 17th March 2022 @ 17:00 GMT TBC
 
+## Agenda
+
+The main focus of this meeting is to understand and discuss the performance characteristics of real world asset management systems that are in use in production.
+
 
 ## Discussion Points
-
-The main focus of this meeting is to understand the performance characteristics of real world asset management systems that are in use in production.
 
 We are proposing structural changes to the API (see Background Reading) and believe these changes create significant improvements, but preclude some specific optimisations afforded by the current design.
 
