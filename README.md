@@ -10,7 +10,7 @@ The working group is open to anyone who wishes to join, all meetings will be rec
 
 ## Meeting details
 
-**Next meeting: March 2022** - [agenda here](meetings/2022-03-10/README.md)
+**Next meeting: March 2022** - [agenda here](meetings/2022-03-17/README.md)
 
 - Frequency: Every 4 weeks on Thursday
 - Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBjX28wMG9ka3FlbzJnY3Zua2dmMGg3bjUzdjBvQGc&tmsrc=c_o00odkqeo2gcvnkgf0h7n53v0o%40group.calendar.google.com&scp=ALL)
