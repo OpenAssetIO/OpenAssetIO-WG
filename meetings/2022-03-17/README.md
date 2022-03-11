@@ -1,4 +1,4 @@
-# March 2022
+# March 17th 2022
 
 **Date/Time**: 17th March 2022 @ 17:00 GMT TBC <br>
 **Add to Calendar**: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBjX28wMG9ka3FlbzJnY3Zua2dmMGg3bjUzdjBvQGc&tmsrc=c_o00odkqeo2gcvnkgf0h7n53v0o%40group.calendar.google.com&scp=ALL) <br>
@@ -7,6 +7,7 @@
 ## Agenda
 
 * A discussion on real-world stats for the use of asset management systems in production
+* Persistence of entity references in metadata such as XMP - @reinecke
 * Update on progress
 * Questions/AOB
 
