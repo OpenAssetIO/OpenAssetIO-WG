@@ -12,6 +12,7 @@ Part 1: Entity Traits
 * The new OpenAssetIO-MediaCreation Repository
 * Upcoming collaboration to build up more traits that cover common post-production assets.
 * OpenPype integration
+* MovieLabs JSON Ontology
 * How do we avoid an endless cycle of refinement here?
 * Question: We want to automate code generation for traits, most likely from a JSON description. Does anyone have any experience of autogenerating code from generic definitions e.g. usdGenSchema?
 <br> <br>
