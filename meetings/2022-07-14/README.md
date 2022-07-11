@@ -6,10 +6,18 @@
 
 ## Agenda
 
+We don't have any particularly burning questions about life and/or the nature of the universion this month, but quite a lot has been happening:
 
+- ASWF Sandbox adoption (🎉)
+- Q3 Goals
+  - We're hiring/contributions welcome!
+- Progress with Specificaion/Trait autogeneration
+- Progress with C++ migration
+  - Batch API methods using callbacks
+  - C++ Host calling through to Python plugins
 
 ## Background Reading
 
-
-
-## Notes
+- [ASWF Porject Lifecycle](https://tac.aswf.io/process/lifecycle.html#sandbox-stage).
+- [ASWF Sanbox proposal](https://lists.aswf.io/g/tac/message/2209).
+- [Decision Record for C++ API signature for batch methods](https://github.com/OpenAssetIO/OpenAssetIO/blob/main/decisions/DR009-Batch-method-result-types.md)
