@@ -111,7 +111,7 @@ specifications:
                       name: Managed
 
                     - namespace: managementPolicy
-                      name: WantsThubnailTrait
+                      name: WantsThumbnail
 ```
 
 ---
@@ -146,7 +146,7 @@ void resolve(
 ## 🔩 Progress: Pybind shenanigans
 
 - Inheritance slicing(?!)
-- The Core OpenAssetIO API classes need to be inheritable in python 🤯
+- The core OpenAssetIO API classes need to be inheritable in python 🤯
 - The Python specialisation gets deleted when only C++ has a ref
 - Think we have a workaround:
 
