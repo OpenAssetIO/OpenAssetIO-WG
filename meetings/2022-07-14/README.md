@@ -7,7 +7,7 @@
 
 - ASWF Sandbox adoption (🎉) [00:08](https://drive.google.com/file/d/1OL559g5qZTZnUQNmXHZ4VAB5GeOSamm4/view?t=8)
   - Sandbox phase adoption
-  - #OpenAssetIO slack channel
+  - #openassetio slack channel
   - Mailing list in progress and will be using as soon as are available.
   - Github will remain in current GitHub org for now. Will move to ASWF further down the line.
 - Q3 Goals [03:19](https://drive.google.com/file/d/1OL559g5qZTZnUQNmXHZ4VAB5GeOSamm4/view?t=199)
