@@ -20,7 +20,7 @@ Date/Time: 10th February 2022 @ 17:00 GMT
 
 ## Notes
 
-[see slides](https://github.com/TheFoundryVisionmongers/OpenAssetIO-WG/blob/master/meetings/2022-02-10/Slides-for-Working-Group-002-2022-02-10.md)
+[see slides](https://github.com/TheFoundryVisionmongers/OpenAssetIO-WG/blob/master/users/2022-02-10/Slides-for-Working-Group-002-2022-02-10.md)
 
 Recap of work since the last meeting:
 * C, C++, Python strategy decided: C++ but with C as a first class citizen
