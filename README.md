@@ -1,15 +1,35 @@
 # OpenAssetIO Working Group
 
-## Purpose
+The OpenAssetIO working group community is built around two themes.
 
-The OpenAssetIO working group steers the technical development of the project as it works towards its initial release. The aim is to ensure that its architecture and implementation choices facilitate easy and broad adoption within Media and Entertainment and beyond.
+- The TSC meetings, that shape the future roadmap of the project.
+- Practical integration efforts.
 
-## Membership
+## TSC Meeting
 
-The working group is open to anyone who wishes to join, all meetings will be recorded and posted publicly after the event.
+OpenAssetIO has a monthly TSC (Technical Steering Committee) meeting,
+focusing on the mid-term roadmap, and other aspects of project
+governance.
 
-## Meeting details
+Details on the setup and function of the TSC are available on the main
+ASWF site [here](https://tac.aswf.io/process/tsc_faq.html).
 
-- Frequency: Every 4 weeks on Thursday
-- Add to Calendar: [Calendar Invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2cxZmpvaDl0aXE4NGluajJ0dnFqOWdjbTJfMjAyMjAyMTBUMTcwMDAwWiBjX28wMG9ka3FlbzJnY3Zua2dmMGg3bjUzdjBvQGc&tmsrc=c_o00odkqeo2gcvnkgf0h7n53v0o%40group.calendar.google.com&scp=ALL)
-- Join: [Zoom link](https://thefoundry.zoom.us/j/97582912679)
+The TSC meeting is open to anyone who wishes to join, all meetings will
+be recorded and posted publicly after the event.
+
+Invite:
+[ASWF Calendar Event](https://zoom-lfx.platform.linuxfoundation.org/meeting/93424547098)
+
+Meeting notes/slides can be found in the [tsc](./tsc) folder.
+
+## Practical Integration
+
+We coordinate discussion around the ongoing efforts to develop the
+project, and build asset-centric workflows on the ASWF
+`#openassetio` [Slack channel](https://academysoftwarefdn.slack.com/archives/C03Q36QS8N4),
+and `openassetio-discuss` [mailing list.](https://lists.aswf.io/g/openassetio-discussion/topics).
+
+Come join us!
+
+Meeting notes/slides from relevant meetings can be found in the
+[users](./users) folder.
