@@ -1,0 +1,145 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {
+        "AAF": {
+            "ClassName": "CompositionMob",
+            "CreationTime": "2021-10-08 23:07:12",
+            "LastModified": "2021-10-08 23:07:12",
+            "MobID": "urn:smpte:umid:060a2b34.01010105.01010f10.13000000.289ce5c3.94959905.a4d4003e.e1c8e0bf",
+            "UsageCode": "Usage_TopLevel",
+            "UserComments": {
+                "Description": "625_ZZZ_211008_LAY_SRC"
+            }
+        }
+    },
+    "name": "g625_211008_LAY_LP1.Exported.02",
+    "global_start_time": {
+        "OTIO_SCHEMA": "RationalTime.1",
+        "rate": 24.0,
+        "value": 87022.0
+    },
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {
+                    "AAF": {
+                        "ClassName": "Sequence",
+                        "PhysicalTrackNumber": 1,
+                        "SlotID": 9
+                    }
+                },
+                "name": "Sequence",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "enabled": true,
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "AAF": {
+                                "ClassName": "SourceClip",
+                                "Name": "gg_034479",
+                                "SourceID": "urn:smpte:umid:060a2b34.01010105.01010f20.13000000.0fd34d94.317647ea.ab634032.f3c6e83d",
+                                "SourceMobSlotID": 1,
+                                "UserComments": {
+                                    "AAFCreationDate": "Mar 18 2021 12:09:34",
+                                    "Comment": "Unlinked from 'gg_024530' version: 1",
+                                    "FirstFrame": "1",
+                                    "GlobalTake": "1",
+                                    "PreviousStoryboardID": "gg_024530",
+                                    "SeqNum": "625",
+                                    "ShotName": "gg_034479",
+                                    "SourceImageSize": "1920x1038",
+                                    "SourceImages": "/shows/gg/diskfarm/TAKES_storybrd_335/take_1_original/TAKES_storybrd_335.take_1_original.335597.tif",
+                                    "StoryboardID": "gg_034479",
+                                    "Take": "1",
+                                    "dept": "STORY",
+                                    "deptTake": "1",
+                                    "prod": "storybrd",
+                                    "unit": "gg"
+                                }
+                            },
+                            "pixar": {
+                                "OTIO_SCHEMA": "PixarMetadata.1",
+                                "cache": {},
+                                "take": {
+                                    "OTIO_SCHEMA": "PixarTake.1",
+                                    "globaltake": 1,
+                                    "prod": "storybrd",
+                                    "shot": "gg_034479",
+                                    "unit": "gg"
+                                }
+                            }
+                        },
+                        "name": "gg_034479",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 24.0,
+                                "value": 17.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 24.0,
+                                "value": 481.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "proxy": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "pixar": {
+                                        "AssetID": 2934875324987
+                                    },
+                                    "video": {
+                                        "Container": "MP4",
+                                        "Profile": "sRGB",
+                                        "Resolution": "1920x1080",
+                                        "VideoCodec": "h264"
+                                    }
+                                },
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "/shows/gg/diskfarm/TAKES_gg_034479/take_1_proxy/TAKES_gg_034479.take_1_proxy.0.mp4"
+                            },
+                            "fullmov": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "pixar": {
+                                        "AssetID": 2934875324980
+                                    },
+                                    "video": {
+                                        "Container": "MOV",
+                                        "Profile": "StudioCustomRGB2022",
+                                        "Resolution": "1920x1038",
+                                        "VideoCodec": "mjpeg"
+                                    }
+                                },
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null,
+                                "target_url": "/shows/gg/diskfarm/TAKES_gg_034479/take_1_fullmov/TAKES_gg_034479.take_1_fullmov.0.mov"
+                            }
+                        },
+                        "active_media_reference_key": "fullmov"
+                    }
+                ],
+                "kind": "Video"
+            }
+        ]
+    }
+}
