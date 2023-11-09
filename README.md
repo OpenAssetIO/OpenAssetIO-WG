@@ -18,7 +18,7 @@ The TSC meeting is open to anyone who wishes to join, all meetings will
 be recorded and posted publicly after the event.
 
 Invite:
-[ASWF Calendar Event](https://zoom-lfx.platform.linuxfoundation.org/meeting/93424547098)
+[ASWF Calendar Event](https://zoom-lfx.platform.linuxfoundation.org/meeting/93424547098?password=4560a7f6-5b18-4c6c-98d6-e9ff4685b62f)
 
 Meeting notes/slides can be found in the [tsc](./tsc) folder.
 
